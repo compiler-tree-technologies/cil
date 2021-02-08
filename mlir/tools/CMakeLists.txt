@@ -1,0 +1,6 @@
+add_subdirectory(mlir-cuda-runner)
+add_subdirectory(mlir-cpu-runner)
+add_subdirectory(mlir-opt)
+add_subdirectory(mlir-tblgen)
+add_subdirectory(mlir-translate)
+add_subdirectory(mlir-vulkan-runner)
